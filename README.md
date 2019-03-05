@@ -10,6 +10,12 @@ A new Flutter project which allows you to add your favorite list of Companies wi
 Note: I used the follow along of the Google Material Design with Flutter Video to set up the backbone for this project. Link is given below.
 https://www.youtube.com/watch?v=DL0Ix1lnC4w&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr&index=8
 
+## Dependancies.
+* DART Programming Language
+* Flutter SDK
+* Android SDK
+* URL_Launcher package from the flutter package plugin
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

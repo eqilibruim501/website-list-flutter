@@ -3,9 +3,10 @@
 A new Flutter project which allows you to add your favorite list of Companies with website links that you can visit with a click. The app also lets you add Employee names, Emails and Phone numbers. The list of companies can be previewed with a picture and name and upon a gesture will present a dialogbox to show the details of the company.
 
 ## Techniques and Ideas learned from this project.
--DART programming language, the Flutter Framework and Flutter SDK
--ListView, Cards and using basic Flutter Widgets to design the UI
--Using the url_launcher plugin package for the Flutter framework
+* DART programming language, the Flutter Framework and Flutter SDK
+* ListView, Cards and using basic Flutter Widgets to design the UI
+* Using the url_launcher plugin package for the Flutter framework
+
 Note: I used the follow along of the Google Material Design with Flutter Video to set up the backbone for this project. Link is given below.
 https://www.youtube.com/watch?v=DL0Ix1lnC4w&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr&index=8
 

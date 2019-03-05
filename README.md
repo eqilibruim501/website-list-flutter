@@ -1,6 +1,8 @@
 # list_tester_app
 
-A new Flutter project.
+A new Flutter project which allows you to add your favorite list of Companies with website links that you can visit with a click. The app also lets you add Employee names, Emails and Phone numbers. The list of companies can be previewed with a picture and name and upon a gesture will present a dialogbox to show the details of the company.
+
+## Techniques and Ideas I learned from this project.
 
 ## Getting Started
 
